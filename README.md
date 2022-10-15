@@ -10,3 +10,5 @@
           Návrh projektu je jeho. Kód je môj 😊. V Projekte som použil
           Vanilla JS s Reactom - useState. 
         </p>
+
+https://5-react-project-restaurant.netlify.app/
